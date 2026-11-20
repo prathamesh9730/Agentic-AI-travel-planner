@@ -2,6 +2,10 @@
 
 Ek AI travel planner jo flights, hotels, attractions, weather, aur budget ko jodkar ek trip itinerary banata hai. Ye LangChain-style tool calling agent ka use karta hai, jo Groq ke LLM se chalta hai.
 
+## website hosting using streamlit app 
+## Live APP  `https://agenticai-travel-planner.streamlit.app` 
+
+
 ## Features
 
 - **Flight search:** source aur destination ke hisaab se flights, price ya duration se sorted
