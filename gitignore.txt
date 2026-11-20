@@ -1,0 +1,10 @@
+# Secret keys (kabhi GitHub par nahi jaani chahiye)
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
